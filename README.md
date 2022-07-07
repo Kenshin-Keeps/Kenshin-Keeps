@@ -6,12 +6,12 @@ Skills: Python, PHP, JavaScript, MySQL
 
 - 🔭 I’m currently working on a Computer Vision Project 
 - 👯 I’m looking to collaborate on projects and researches related to Computer Vision and Machine Learning 
-- 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/https://www.facebook.com/zahim.hassan.1), [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/md-zahim-hassan-25aa47187//), [E-mail](zahim951xtgmovi@gmail.com)
 <div align='center'>
 
 ![Profile views](https://gpvc.arturio.dev/Kenshin-Keeps)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Kenshin-Keeps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-zahim-hassan-25aa47187//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/zahim.hassan.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='30'>](https://www.kaggle.com/zahimhassan)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Kenshin-Keeps)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='30'>](https://www.kaggle.com/zahimhassan)
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  -->
 
