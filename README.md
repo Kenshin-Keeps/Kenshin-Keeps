@@ -15,8 +15,6 @@ Skills: Python, PHP, JavaScript, MySQL
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenshin-Keeps&show_icons=true&theme=dark) 
-
-![GitHub metrics](https://metrics.lecoq.io/Kenshin-Keeps)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenshin-Keeps&show_icons=true&theme=dark)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kenshin-Keeps&theme=dark)
