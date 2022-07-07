@@ -22,10 +22,10 @@ Skills: Python, PHP, JavaScript, MySQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenshin-Keeps&show_icons=true&theme=dark) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kenshin-Keeps)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kenshin-Keeps&theme=dark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Kenshin-Keeps)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kenshin-Keeps)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kenshin-Keeps&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/Kenshin-Keeps)  
