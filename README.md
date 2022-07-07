@@ -13,9 +13,10 @@ Skills: Python, PHP, JavaScript, MySQL
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 
-<div><img align='center' style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Kenshin-Keeps&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" /></div>
+<img align='center' style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Kenshin-Keeps&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" />
 
-<div><img align='center' style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps&theme=dark&langs_count=8&layout=compact&hide_border=true" /></div>
+
+<img align='center' style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps&theme=dark&langs_count=8&layout=compact&hide_border=true" />
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps)](https://github.com/anuraghazra/github-readme-stats)
