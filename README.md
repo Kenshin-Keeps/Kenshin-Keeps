@@ -6,7 +6,10 @@ Skills: Python, PHP, JavaScript, MySQL
 
 - 🔭 I’m currently working on a Computer Vision Project 
 - 👯 I’m looking to collaborate on projects and researches related to Computer Vision and Machine Learning 
+- 
+<div align='center'>
 
+![Profile views](https://gpvc.arturio.dev/Kenshin-Keeps)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/Kenshin-Keeps)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-zahim-hassan-25aa47187//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/zahim.hassan.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='30'>](https://www.kaggle.com/zahimhassan)
 
@@ -16,16 +19,11 @@ Skills: Python, PHP, JavaScript, MySQL
 <!-- <img align='center' style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Kenshin-Keeps&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" />
 
 <img align='center' style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps&theme=dark&langs_count=8&layout=compact&hide_border=true" /> -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenshin-Keeps&show_icons=true&theme=dark) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kenshin-Keeps&theme=dark)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Kenshin-Keeps)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kenshin-Keeps&theme=dark)  
-
-![Profile views](https://gpvc.arturio.dev/Kenshin-Keeps)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Kenshin-Keeps&theme=dark)
