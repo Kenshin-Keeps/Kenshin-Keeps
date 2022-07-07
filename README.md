@@ -18,7 +18,7 @@ Skills: Python, PHP, JavaScript, MySQL
 <img align='center' style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps&theme=dark&langs_count=8&layout=compact&hide_border=true" /> -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenshin-Keeps&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenshin-Keeps&show_icons=true&theme=dark) 
 
