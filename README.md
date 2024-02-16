@@ -1,11 +1,11 @@
 ### Hi there 👋, Md. Zahim Hassan is here
 #### A Machine Learning and Computer Vision Enthusiast 
-I am currently studying B.Sc. in Computer Science and Engineering at Khulna University of Engineering & Technology(KUET), Khulna. I like to learn new techs to enrich my knowledge.
+I have completed a B.Sc. in Computer Science and Engineering from Khulna University of Engineering & Technology(KUET), Khulna. Currently, I am working as a faculty member at the Department of Information and Communication Technology at Bangladesh Army University of Science and Technology (BAUST), Saidpur. I have worked as a full-time faculty member at the Department of Computer Science and Engineering at Daffodil International University, Dhaka.  I strive to learn new concepts and ideas of computer vision and image processing and delve into implementing them to solve practical problems to enrich my knowledge and help to build a better society. **I am looking for a full-time PhD opportunity in this domain.**
 
 Skills: Python, PHP, JavaScript, MySQL
 
 - 🔭 I’m currently working on a Computer Vision Project 
-- 👯 I’m looking to collaborate on projects and researches related to Computer Vision and Machine Learning 
+- 👯 I’m looking to collaborate on projects and research related to Computer Vision and Machine Learning 
 - 📫 How to reach me: [Facebook](https://www.facebook.com/https://www.facebook.com/zahim.hassan.1), [LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/md-zahim-hassan-25aa47187//), [zahim951xtgmovi@gmail.com]()
 <div align='center'>
 
