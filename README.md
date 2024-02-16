@@ -2,7 +2,7 @@
 #### A Machine Learning and Computer Vision Enthusiast 
 I have completed a B.Sc. in Computer Science and Engineering from Khulna University of Engineering & Technology(KUET), Khulna. Currently, I am working as a faculty member at the Department of Information and Communication Technology at Bangladesh Army University of Science and Technology (BAUST), Saidpur. I have worked as a full-time faculty member at the Department of Computer Science and Engineering at Daffodil International University, Dhaka.  I strive to learn new concepts and ideas of computer vision and image processing and delve into implementing them to solve practical problems to enrich my knowledge and help to build a better society. 
 
-###**I am looking for a full-time PhD opportunity in this domain.**
+### I am looking for a full-time PhD opportunity in this domain.
 
 Skills: Python, PHP, JavaScript, MySQL
 
